@@ -1,0 +1,13 @@
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.deps.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.runtimeconfig.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.runtimeconfig.dev.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.csprojAssemblyReference.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.csproj.CoreCompileInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.AssemblyInfoInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.AssemblyInfo.cs
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.csproj.CopyComplete
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RefistreringsAfgiftTest\Debug\netcoreapp2.1\RefistreringsAfgiftTest.dll

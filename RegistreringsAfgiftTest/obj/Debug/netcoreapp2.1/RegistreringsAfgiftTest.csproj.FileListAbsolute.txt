@@ -1,0 +1,17 @@
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.csproj.CoreCompileInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.AssemblyInfoInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.AssemblyInfo.cs
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgiftTest.deps.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgiftTest.runtimeconfig.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgiftTest.runtimeconfig.dev.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgiftTest.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgiftTest.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgift.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\bin\Debug\netcoreapp2.1\RegistreringsAfgift.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.csproj.CopyComplete
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.pdb
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\RegistreringsAfgiftTest\obj\Debug\netcoreapp2.1\RegistreringsAfgiftTest.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.deps.json
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\b\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.dll
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.csprojAssemblyReference.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.csproj.CoreCompileInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.AssemblyInfoInputs.cache
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.AssemblyInfo.cs
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.csproj.CopyComplete
+E:\Projects\Mock 1 - Kristian Hornbøll 1981\Skat\.vs\Skat\lut\0\i\RegistreringsAfgift\Debug\netcoreapp2.1\RegistreringsAfgift.dll
